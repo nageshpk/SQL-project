@@ -22,3 +22,18 @@ You are responsible for determining what caused the dip at the end of the chart 
  - Users
  - Emails
  - Events
+
+
+# Steps to analyze:
+
+- Identify the reason for user engagement drop.
+  -  Users are logging in less
+  -  Engagement across mobile app platform has dropped, may be due to recent app changes or updates.
+  -  Drop in email clockthrough's.
+- Make recommendation.
+  - Change in mobile app UX or revert any recent update
+  - Inspite of weekly digest being sent there is a drop in email clickthrough's, it might be because the information might not be relevant or too much spamming the users' mailbox. So look into the weekly digest being sent over mail.
+
+
+
+
